@@ -21,7 +21,7 @@ namespace Program
                 num = num / 10;
                 sum = sum + r;
             }
-            Console.WriteLine("Sum of Digits of the Number : "+sum);
+            Console.WriteLine("Sum izz : "+sum);
             Console.ReadLine();
  
         }
