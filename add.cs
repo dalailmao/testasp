@@ -21,7 +21,7 @@ namespace Program
                 num = num / 10;
                 sum = sum + r;
             }
-            Console.WriteLine("Sum izz equal to : "+sum);
+            Console.WriteLine("Sum izz equals : "+sum);
             Console.ReadLine();
  
         }
